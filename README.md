@@ -74,7 +74,7 @@ Sample Output
 ------------------------------------------------------------
 
 Example from a typical run (shortened):
-
+```
 ===== TEST: S=100, K=100, r=0.05, sigma=0.20, T=1 =====
 d1:       0.350000
 d2:       0.150000
@@ -88,7 +88,7 @@ Call Θ:   -2.736672
 Put Θ:    2.019475
 Call ρ:   53.232482
 Put ρ:    -41.890461
-
+```
 These values match standard Black–Scholes calculators and textbook results.
 
 ------------------------------------------------------------
